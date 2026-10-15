@@ -1,0 +1,26 @@
+[
+  {
+    "op": "add_sample",
+    "name": "mech_clip_load",
+    "t_ms": 0.0,
+    "gain": -19.0,
+    "pitch": 0.0,
+    "trim_in_ms": null,
+    "trim_out_ms": null,
+    "fade_in_ms": 0.0,
+    "fade_out_ms": 180.0,
+    "reverse": false
+  },
+  {
+    "op": "add_sample",
+    "name": "servo_motor",
+    "t_ms": 80.0,
+    "gain": -26.0,
+    "pitch": 0.0,
+    "trim_in_ms": null,
+    "trim_out_ms": null,
+    "fade_in_ms": 0.0,
+    "fade_out_ms": 180.0,
+    "reverse": false
+  }
+]

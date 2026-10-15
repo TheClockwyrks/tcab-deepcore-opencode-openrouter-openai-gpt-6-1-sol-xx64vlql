@@ -1,0 +1,78 @@
+[
+  {
+    "op": "add_voice",
+    "name": "v0",
+    "wave": "triangle",
+    "freq": 440.0,
+    "gain": -25.0,
+    "pan": 0.0,
+    "start_ms": 0.0,
+    "dur_ms": 180.0
+  },
+  {
+    "op": "set_envelope",
+    "voice": "v0",
+    "attack_ms": null,
+    "decay_ms": null,
+    "sustain": null,
+    "release_ms": null,
+    "env": "pluck"
+  },
+  {
+    "op": "add_voice",
+    "name": "v1",
+    "wave": "triangle",
+    "freq": 660.0,
+    "gain": -25.0,
+    "pan": 0.0,
+    "start_ms": 95.0,
+    "dur_ms": 180.0
+  },
+  {
+    "op": "set_envelope",
+    "voice": "v1",
+    "attack_ms": null,
+    "decay_ms": null,
+    "sustain": null,
+    "release_ms": null,
+    "env": "pluck"
+  },
+  {
+    "op": "add_voice",
+    "name": "v2",
+    "wave": "triangle",
+    "freq": 880.0,
+    "gain": -25.0,
+    "pan": 0.0,
+    "start_ms": 190.0,
+    "dur_ms": 180.0
+  },
+  {
+    "op": "set_envelope",
+    "voice": "v2",
+    "attack_ms": null,
+    "decay_ms": null,
+    "sustain": null,
+    "release_ms": null,
+    "env": "pluck"
+  },
+  {
+    "op": "add_voice",
+    "name": "v3",
+    "wave": "triangle",
+    "freq": 1320.0,
+    "gain": -25.0,
+    "pan": 0.0,
+    "start_ms": 285.0,
+    "dur_ms": 180.0
+  },
+  {
+    "op": "set_envelope",
+    "voice": "v3",
+    "attack_ms": null,
+    "decay_ms": null,
+    "sustain": null,
+    "release_ms": null,
+    "env": "pluck"
+  }
+]
